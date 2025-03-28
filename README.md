@@ -7,4 +7,5 @@ Modify and Retrain omo 1st network for multiple objects manipulation generation
 >   3. Modified architecture by explanding the object encoder channel  
 
 Visual Result:
-> Two green dots in the gif below are the inferred result of network  
+> Two green dots in the gif below are the inferred result of network
+![image](https://github.com/Hongboooooo/ARAP/blob/main/ARAP.gif)
