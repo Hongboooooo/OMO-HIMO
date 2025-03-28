@@ -11,7 +11,7 @@ Modify and Retrain omo[1] 1st stage network for multiple objects manipulation ge
 >>    similiar with classifier guidance, but instead of using classifier during training stage, going to design an energy function to guide the gradient of denosing during inference
 
 Visual Result:
-> Two green dots in the gif below are the inferred result of network
+> Two green dots in the gif below are the inferred result of network  
 ![image](https://github.com/Hongboooooo/OMO-HIMO/blob/main/omo-himo.gif)
 
 
