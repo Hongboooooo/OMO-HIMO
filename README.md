@@ -13,3 +13,7 @@ Modify and Retrain omo[1] 1st stage network for multiple objects manipulation ge
 Visual Result:
 > Two green dots in the gif below are the inferred result of network
 ![image](https://github.com/Hongboooooo/OMO-HIMO/blob/main/omo-himo.gif)
+
+
+Reference:
+[1] 
