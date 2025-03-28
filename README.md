@@ -16,4 +16,5 @@ Visual Result:
 
 
 Reference:
-[1] 
+[1] https://github.com/lijiaman/omomo_release  
+[2] 
