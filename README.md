@@ -16,5 +16,5 @@ Visual Result:
 
 
 Reference:
-[1] https://github.com/lijiaman/omomo_release  
-[2] 
+> [1] https://github.com/lijiaman/omomo_release  
+> [2] https://github.com/LvXinTao/HIMO_dataset
